@@ -38,7 +38,7 @@
 			{ "variables": false }
 		],
 		"eqeqeq": ["error", "always"],
-		"no-console": ["error", { "allow": ["error", "warn"] }],
+		"no-console": "off",
 		"no-param-reassign": ["error", { "props": false }],
 		"default-case": "error",
 		"no-nested-ternary": "error",
